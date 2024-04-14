@@ -123,7 +123,7 @@ nav ul li a {
   padding: 15px;
   border-radius: 10px;
   box-shadow: 2px 15px 13px -11px rgba(0, 0, 0, 0.75);
-  cursor:pointer;
+  cursor: pointer;
 }
 
 #banner-btn a {
@@ -193,126 +193,126 @@ h3 {
   font-family: "MuseoModerno", sans-serif;
 }
 
-.benef-horario{
-    width: 100%;
-    height: 600px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    gap: 50px;
-    padding: 20px 100px;
+.benef-horario {
+  width: 100%;
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 50px;
+  padding: 20px 100px;
 }
 
-.benef-info{
-    text-align: right;
-    width: 50%;
-    height: 250px;
-    display: flex;
-    justify-content: space-around;
-    align-items: right;
-    flex-direction: column;
+.benef-info {
+  text-align: right;
+  width: 50%;
+  height: 250px;
+  display: flex;
+  justify-content: space-around;
+  align-items: right;
+  flex-direction: column;
 }
 
-.benef-title{
-    text-align: right;
-    font-weight: bold;
-    font-size: 38px;
+.benef-title {
+  text-align: right;
+  font-weight: bold;
+  font-size: 38px;
 }
 
-.benef-text{
-    text-align: right;
-    font-weight: 400;
-    font-size: 24px;
-    padding-left:300px ;
+.benef-text {
+  text-align: right;
+  font-weight: 400;
+  font-size: 24px;
+  padding-left: 300px;
 }
 
-#benef-btn{
-    width: 100%;
-    margin-top: 10px;
+#benef-btn {
+  width: 100%;
+  margin-top: 10px;
 }
 
-#benef-btn a{
-    color: #fff;
-    text-align: center;
-    font-size: 24px;
-    width: 250px;
-    height: 60px;
-    background-color: #0038ff;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 2px 15px 13px -11px rgba(0, 0, 0, 0.75);
-    cursor:pointer;
+#benef-btn a {
+  color: #fff;
+  text-align: center;
+  font-size: 24px;
+  width: 250px;
+  height: 60px;
+  background-color: #0038ff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 2px 15px 13px -11px rgba(0, 0, 0, 0.75);
+  cursor: pointer;
 }
 
 #benef-btn a:hover {
-    background-color: #2050fd;
-    transform: scale(1.05);
-  }
-
-.benef-img{
-    width: 50%;
+  background-color: #2050fd;
+  transform: scale(1.05);
 }
 
-.benef-ahorro{
-    width: 100%;
-    height: 600px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    gap: 50px;
-    padding: 20px 100px;
+.benef-img {
+  width: 50%;
 }
 
-.ahorro-img{
-    display: flex;
-    justify-content: center;
-    width: 50%;
+.benef-ahorro {
+  width: 100%;
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 50px;
+  padding: 20px 100px;
 }
 
-.ahorro-info{
-    width: 50%;
-    height: 250px;
-    display: flex;
-    justify-content: space-around;
-    align-items: left;
-    flex-direction: column;
+.ahorro-img {
+  display: flex;
+  justify-content: center;
+  width: 50%;
 }
 
-.ahorro-title{
-    text-align: left;
-    font-weight: bold;
-    font-size: 38px;
+.ahorro-info {
+  width: 50%;
+  height: 250px;
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  flex-direction: column;
 }
 
-.ahorro-text{
-    text-align: left;
-    font-weight: 400;
-    font-size: 24px;
-    padding-right:300px ;
+.ahorro-title {
+  text-align: left;
+  font-weight: bold;
+  font-size: 38px;
 }
 
-#ahorro-btn{
-    width: 100%;
-    margin-top: 10px;
+.ahorro-text {
+  text-align: left;
+  font-weight: 400;
+  font-size: 24px;
+  padding-right: 300px;
 }
 
-#ahorro-btn a{
-    color: #fff;
-    text-align: center;
-    font-size: 24px;
-    width: 250px;
-    height: 60px;
-    background-color: #0038ff;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 2px 15px 13px -11px rgba(0, 0, 0, 0.75);
-    cursor:pointer;
+#ahorro-btn {
+  width: 100%;
+  margin-top: 10px;
+}
+
+#ahorro-btn a {
+  color: #fff;
+  text-align: center;
+  font-size: 24px;
+  width: 250px;
+  height: 60px;
+  background-color: #0038ff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 2px 15px 13px -11px rgba(0, 0, 0, 0.75);
+  cursor: pointer;
 }
 
 #ahorro-btn a:hover {
-    background-color: #2050fd;
-    transform: scale(1.05);
-  }
+  background-color: #2050fd;
+  transform: scale(1.05);
+}
 
 section.equipo {
   background: linear-gradient(
@@ -351,9 +351,9 @@ section.equipo {
   align-self: center; /* Alinea la imagen al centro */
 }
 
-#title-equipo{
-    font-family: 'MuseoModerno', sans-serif;
-    font-size: 36px;
+#title-equipo {
+  font-family: "MuseoModerno", sans-serif;
+  font-size: 36px;
 }
 
 #txtEquipo {
@@ -679,8 +679,8 @@ summary::-webkit-details-marker {
   display: none;
 }
 
-summary i{
-    margin: 0 10px;
+summary i {
+  margin: 0 10px;
 }
 
 footer {
