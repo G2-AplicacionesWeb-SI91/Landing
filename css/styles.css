@@ -59,7 +59,7 @@ nav ul li a {
 }
 
 .banner {
-  background: url("/assets/FondoHome.png"); /* Fondo degradado del banner */
+  background: url("./assets/FondoHome.png"); /* Fondo degradado del banner */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
