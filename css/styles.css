@@ -26,8 +26,6 @@ nav {
   width: 100%; /* Ancho de la barra de navegación */
   padding: 0 30px;
   display: flex;
-  align-items: center;
-  flex-direction: row-reverse;
 }
 
 nav ul {
@@ -53,13 +51,13 @@ nav ul li a {
 #logo {
   font-family: "MuseoModerno", sans-serif;
   color: #000;
-  margin-right: 800px;
+  margin-right: 700px;
   font-size: 28px;
   font-weight: bold;
 }
 
 .banner {
-  background: url('/assets/FondoHome.png'); /* Fondo degradado del banner */
+  background: url('https://img.freepik.com/foto-gratis/movimiento-borroso-lleno-gente-calle-ciudad-iluminada-vida-nocturna-generada-ai_188544-41902.jpg?t=st=1714831789~exp=1714835389~hmac=c8cf2406e230b959531953acf3662c92a2f5f42fe202f78d2b7ab3bba36dd74c&w=1800'); /* Fondo degradado del banner */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -448,7 +446,6 @@ section.equipo {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  float: right;
 }
 
 .nav-buttons li {
